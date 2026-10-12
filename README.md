@@ -42,7 +42,7 @@ Mean generation time: 1.16 seconds per summary on a GPU.
 
 ## How to run
 
-1. Open `summarisation_200.ipynb` in Google Colab.
+1. [Open the notebook in Google Colab](https://colab.research.google.com/github/Aman1232606/t5-summarisation-cnn-dailymail/blob/main/summarisation_200_1.ipynb)
 2. Choose **Runtime > Change runtime type > GPU**.
 3. Choose **Runtime > Run all**. It takes roughly 5-10 minutes.
 4. The final cell prints a results summary; result tables, figures and run metadata are saved next to the notebook.
